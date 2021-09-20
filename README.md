@@ -44,7 +44,7 @@ Apabila reversal.php diakses menggunakan browser, akan didapatkan respon sbb:
 {"rc":"ERR-REVERSAL-DENIED","msg":"Reversal ditolak. Pembayaran sudah update ke DB di Perusahaan"}
 
 KONFIGURASI SANDBOX:
-1. Dapatkan akses username & password Institusi Anda untuk masuk ke SANDBOX BPI (https://sandbox.bpi.co.id/)
+1. Dapatkan akses username & password Institusi untuk masuk ke SANDBOX BPI (https://sandbox.bpi.co.id/)
 2. Jika belum mempunyai akun silahkan mendaftar disini (https://sandbox.bpi.co.id/smartbilling/user-register)
 3. Masuk ke menu Konfigurasi -> Konfigurasi Umum 
 4. Masukkan Token Host to Host Cth: SECRET-KEY
@@ -59,7 +59,7 @@ contoh: https://serversaya.com/gateway/reversal.php
 
 UJICOBA TRANSAKSI:
 1. Masuk ke menu Tools -> Flagging
-2. Lakukan ujicoba INQUIRY dengan memasukkan nomor Pembayaran (Nomor Siswa: 123456 atau 876876)
+2. Lakukan ujicoba INQUIRY dengan memasukkan Nomor Pembayaran (Nomor Siswa: 123456 atau 876876)
 3. Lakukan ujicoba PAYMENT dengan klik tombol SELANJUTNYA, Payment Type : Close Payment
 4. Kemudian klik tombol BAYAR jika muncul jendela pop-up Tipe Pembayaran pilih Payment Simulation : Receipt Simulation
 5. Langkah terakhir klik BAYAR untuk membayar atau BATAL untuk cancel
