@@ -46,3 +46,13 @@ Apabila reversal.php diakses menggunakan browser, akan didapatkan respon sbb:
 KONFIGURASI SANDBOX:
 1. Dapatkan akses username & password Institusi Anda untuk masuk ke SANDBOX BPI (https://sandbox.bpi.co.id/)
 2. Jika belum mempunyai akun silahkan mendaftar disini (https://sandbox.bpi.co.id/smartbilling/user-register)
+3. Masuk ke menu Konfigurasi -> Konfigurasi Umum 
+4. ○ Masukkan Token Host to Host Cth: SECRET-KEY
+○ Masukkan URL Host to Host Inquiry
+cth: https://serversaya.com/gateway/inquiry.php
+○ Masukkan URL Host to Host Payment
+cth: https://serversaya.com/gateway/payment.php
+○ Masukkan URL Host to Host Reversal
+cth: https://serversaya.com/gateway/reversal.php
+○ Checklist Host to Host (S&K Berlaku)
+○ Klik Submit
