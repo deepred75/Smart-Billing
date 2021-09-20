@@ -10,7 +10,7 @@ KEBUTUHAN APLIKASI:
 CARA INSTALASI CEPAT:
 1. Buat sebuah database dengan nama "db_perusahaan"
 2. Beri akses user "root" dengan password "root" untuk mengakses "db_perusahaan"
-3. Import file "tagihan_pembayaran.sql" ke dalam database "db_perusahaan"
+3. Import file "u9158949_bsi.sql" ke dalam database "db_perusahaan"
 4. Letakkan file config.php, inquiry.php, payment.php, dan reversal.php pada sebuah
 direktori yang dapat diakses oleh publik
 5. Ubah isi file config.php:
