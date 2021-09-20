@@ -64,3 +64,5 @@ UJICOBA TRANSAKSI:
 4. Kemudian klik tombol BAYAR jika muncul jendela pop-up Tipe Pembayaran pilih Payment Simulation : Receipt Simulation
 5. Langkah terakhir klik BAYAR untuk membayar atau BATAL untuk cancel
 6. Jika klik tombol BAYAR transaksi pembayaran akan ditampilkan
+
+https://github.com/deepred75/Smart-Billing/issues/1#issue-1001297969
