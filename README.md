@@ -49,10 +49,10 @@ KONFIGURASI SANDBOX:
 3. Masuk ke menu Konfigurasi -> Konfigurasi Umum 
 4. ○ Masukkan Token Host to Host Cth: SECRET-KEY
 ○ Masukkan URL Host to Host Inquiry
-cth: https://serversaya.com/gateway/inquiry.php
+contoh: https://serversaya.com/gateway/inquiry.php
 ○ Masukkan URL Host to Host Payment
-cth: https://serversaya.com/gateway/payment.php
+contoh: https://serversaya.com/gateway/payment.php
 ○ Masukkan URL Host to Host Reversal
-cth: https://serversaya.com/gateway/reversal.php
+contoh: https://serversaya.com/gateway/reversal.php
 ○ Checklist Host to Host (S&K Berlaku)
 ○ Klik Submit
