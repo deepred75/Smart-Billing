@@ -40,7 +40,7 @@ CREATE TABLE `tagihan_pembayaran` (
 INSERT INTO `tagihan_pembayaran` (`id_invoice`, `tanggal_invoice`, `nomor_siswa`, `nama`, 
 `nominal_tagihan`, `informasi`, `nomor_jurnal_pembukuan`, `waktu_transaksi`, 
 `channel_pembayaran`, `status_pembayaran`) VALUES
-('JUL/001', '2021-07-06', '123456', 'Virnanda Varadila w', 6500000, 'Fakultas Ilmu Komputer', NULL, NULL, NULL, NULL),
+('JUL/001', '2021-07-06', '123456', 'Virnanda Varadila W', 6500000, 'Fakultas Ilmu Komputer', NULL, NULL, NULL, NULL),
 ('JUL/002', '2021-07-06', '876876', 'Ronny Afriansyah', 1250000, 'Fakultas Ilmu Sosial', NULL, NULL, NULL, NULL);
 
 --
