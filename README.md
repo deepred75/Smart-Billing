@@ -1,4 +1,4 @@
-# Smart Billing Bank Syariah Indonesia
+# Implementasi Smart Billing H2H BSI
 Contoh Implementasi Host to Host Smart Billing BPI Bank Syariah Indonesia Pembayaran Institusi
 
 KEBUTUHAN APLIKASI:
