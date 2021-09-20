@@ -31,6 +31,12 @@ https://serversaya.com/gateway/payment.php
 reversal.php dapat diakses pada URL Host to Host Reversal:
 https://serversaya.com/gateway/reversal.php
 
+Apabila index.php diakses menggunakan browser, akan didapatkan respon sbb: 
+{semua isi tabel dalam database akan ditampilan}
+
+Apabila payment.php diakses menggunakan browser, akan didapatkan respon sbb: 
+{blank page / halaman kosong}
+
 Apabila inquiry.php diakses menggunakan browser, akan didapatkan respon sbb: 
 {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}
 
