@@ -45,4 +45,4 @@ Apabila reversal.php diakses menggunakan browser, akan didapatkan respon sbb:
 
 KONFIGURASI SANDBOX:
 1. Dapatkan akses username & password Institusi Anda untuk masuk ke SANDBOX BPI (https://sandbox.bpi.co.id/)
-2. 
+2. Jika belum mempunyai akun silahkan mendaftar disini (https://sandbox.bpi.co.id/smartbilling/user-register)
