@@ -63,6 +63,6 @@ UJICOBA TRANSAKSI:
 3. Lakukan ujicoba PAYMENT dengan klik tombol SELANJUTNYA, Payment Type : Close Payment
 4. Kemudian klik tombol BAYAR jika muncul jendela pop-up Tipe Pembayaran pilih Payment Simulation : Receipt Simulation
 5. Langkah terakhir klik BAYAR untuk membayar atau BATAL untuk cancel
-6. Jika klik tombol BAYAR transaksi pembayaran akan ditampilkan
+6. Jika klik tombol BAYAR transaksi pembayaran akan ditampilkan seperti gambar dibawah ini :
 
 ![Alt text](https://user-images.githubusercontent.com/26053613/134060197-3433ee7a-3a61-4adc-aa0f-5134894890a6.png?raw=true "Transaksi Berhasil")
