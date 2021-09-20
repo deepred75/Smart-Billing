@@ -56,3 +56,8 @@ contoh: https://serversaya.com/gateway/payment.php
 contoh: https://serversaya.com/gateway/reversal.php
 ○ Checklist Host to Host (S&K Berlaku)
 ○ Klik Submit
+
+UJICOBA TRANSAKSI:
+1. Masuk ke menu Tools -> Flagging
+2. Lakukan ujicoba INQUIRY dengan memasukkan nomor Pembayaran (Nomor Siswa: 123456 atau 876876)
+3. Lakukan ujicoba PAYMENT dengan klik tombol SELANJUTNYA, Payment Type : Close Payment
