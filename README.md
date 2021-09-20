@@ -47,7 +47,7 @@ KONFIGURASI SANDBOX:
 1. Dapatkan akses username & password Institusi Anda untuk masuk ke SANDBOX BPI (https://sandbox.bpi.co.id/)
 2. Jika belum mempunyai akun silahkan mendaftar disini (https://sandbox.bpi.co.id/smartbilling/user-register)
 3. Masuk ke menu Konfigurasi -> Konfigurasi Umum 
-4. ○ Masukkan Token Host to Host Cth: SECRET-KEY
+4. Masukkan Token Host to Host Cth: SECRET-KEY
 ○ Masukkan URL Host to Host Inquiry
 contoh: https://serversaya.com/gateway/inquiry.php
 ○ Masukkan URL Host to Host Payment
