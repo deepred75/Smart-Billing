@@ -11,7 +11,7 @@ CARA INSTALASI CEPAT:
 1. Buat sebuah database dengan nama "db_perusahaan"
 2. Beri akses user "root" dengan password "root" untuk mengakses "db_perusahaan"
 3. Import file "u9158949_bsi.sql" ke dalam database "db_perusahaan"
-4. Letakkan file config.php, inquiry.php, payment.php, dan reversal.php dalam
+4. Letakkan file config.php, inquiry.php, payment.php, reversal.php dalam
 direktori gateway yang dapat diakses oleh publik
 5. Ubah isi file config.php:
 $biller_name $secret_key $mysql_host $mysql_username $mysql_password $mysql_dbname
