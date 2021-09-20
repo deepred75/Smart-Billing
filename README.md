@@ -1,4 +1,4 @@
-# Smart-Billing
+# Smart Billing Bank Syariah Indonesia
 Contoh Implementasi Host to Host Smart Billing BPI Bank Syariah Indonesia Pembayaran Institusi
 
 KEBUTUHAN APLIKASI:
@@ -16,7 +16,7 @@ direktori yang dapat diakses oleh publik
 5. Ubah isi file config.php:
 $biller_name $secret_key $mysql_host $mysql_username $mysql_password $mysql_dbname
 = 'PERUSAHAAN XYZ'; = 'SECRET-KEY';
-= 'localhost:3306'; = 'root';
+= 'localhost'; = 'root';
 = 'root';
 = 'db_perusahaan';
 6. Tentukan sendiri SECRET-KEY untuk konfigurasi di sistem SmartBilling BPI
