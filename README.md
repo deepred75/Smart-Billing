@@ -33,5 +33,6 @@ https://serversaya.com/gateway/reversal.php
 
 Apabila inquiry.php diakses menggunakan browser, akan didapatkan respon sbb: 
 {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}
+
 Apabila reversal.php diakses menggunakan browser, akan didapatkan respon sbb: 
 {"rc":"ERR-REVERSAL-DENIED","msg":"Reversal ditolak. Pembayaran sudah update ke DB di Perusahaan"}
