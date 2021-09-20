@@ -22,6 +22,8 @@ $biller_name $secret_key $mysql_host $mysql_username $mysql_password $mysql_dbna
 6. Tentukan sendiri SECRET-KEY untuk konfigurasi di sistem SmartBilling BPI
 7. Pastikan berkas inquiry.php, payment.php, dan reversal.php diletakkan di suatu webserver yang dapat diakses melalui jaringan internet menggunakan browser.
 Contoh URL Host-to-Host:
+○ index.php dapat diakses pada URL Host to Host Index:
+https://serversaya.com/demo/index.php
 ○ inquiry.php dapat diakses pada URL Host to Host Inquiry:
 https://serversaya.com/gateway/inquiry.php
 payment.php dapat diakses pada URL Host to Host Payment:
