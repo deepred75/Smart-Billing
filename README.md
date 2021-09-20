@@ -65,4 +65,4 @@ UJICOBA TRANSAKSI:
 5. Langkah terakhir klik BAYAR untuk membayar atau BATAL untuk cancel
 6. Jika klik tombol BAYAR transaksi pembayaran akan ditampilkan
 
-https://user-images.githubusercontent.com/26053613/134059549-0076e762-0ec2-4f10-93be-dca921254e41.png
+![Alt text](https://user-images.githubusercontent.com/26053613/134059549-0076e762-0ec2-4f10-93be-dca921254e41.png?raw=true "Transaksi Berhasil")
