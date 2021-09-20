@@ -61,3 +61,4 @@ UJICOBA TRANSAKSI:
 1. Masuk ke menu Tools -> Flagging
 2. Lakukan ujicoba INQUIRY dengan memasukkan nomor Pembayaran (Nomor Siswa: 123456 atau 876876)
 3. Lakukan ujicoba PAYMENT dengan klik tombol SELANJUTNYA, Payment Type : Close Payment
+4. Kemudian klik tombol BAYAR jika muncul jendela pop-up Tipe Pembayaran pilih Payment Simulation : Receipt Simulation
