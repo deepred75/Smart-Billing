@@ -62,3 +62,5 @@ UJICOBA TRANSAKSI:
 2. Lakukan ujicoba INQUIRY dengan memasukkan nomor Pembayaran (Nomor Siswa: 123456 atau 876876)
 3. Lakukan ujicoba PAYMENT dengan klik tombol SELANJUTNYA, Payment Type : Close Payment
 4. Kemudian klik tombol BAYAR jika muncul jendela pop-up Tipe Pembayaran pilih Payment Simulation : Receipt Simulation
+5. Langkah terakhir klik BAYAR untuk membayar atau BATAL untuk cancel
+6. Jika klik tombol BAYAR transaksi pembayaran akan ditampilkan
