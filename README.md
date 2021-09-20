@@ -31,4 +31,5 @@ https://serversaya.com/gateway/payment.php
 reversal.php dapat diakses pada URL Host to Host Reversal:
 https://serversaya.com/gateway/reversal.php
 
-Apabila webservice diakses menggunakan browser, akan didapatkan respon sbb: {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}
+Apabila inquiry.php diakses menggunakan browser, akan didapatkan respon sbb: {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}
+Apabila reversalp.hp diakses menggunakan browser, akan didapatkan respon sbb: {"rc":"ERR-REVERSAL-DENIED","msg":"Reversal ditolak. Pembayaran sudah update ke DB di Perusahaan"}
