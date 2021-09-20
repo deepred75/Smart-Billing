@@ -31,16 +31,16 @@ https://serversaya.com/gateway/payment.php
 reversal.php dapat diakses pada URL Host to Host Reversal:
 https://serversaya.com/gateway/reversal.php
 
-Apabila index.php diakses menggunakan browser, akan didapatkan respon sbb: 
+Apabila index.php diakses menggunakan browser akan didapatkan respon sbb: 
 ![Alt text](https://user-images.githubusercontent.com/26053613/134061383-d64672bc-485d-4af9-98a9-52471c8d2135.png?raw=true "Menampilkan Data")
 
-Apabila payment.php diakses menggunakan browser, akan didapatkan respon sbb: 
+Apabila payment.php diakses menggunakan browser akan didapatkan respon sbb: 
 {blank page / halaman kosong}
 
-Apabila inquiry.php diakses menggunakan browser, akan didapatkan respon sbb: 
+Apabila inquiry.php diakses menggunakan browser akan didapatkan respon sbb: 
 {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}
 
-Apabila reversal.php diakses menggunakan browser, akan didapatkan respon sbb: 
+Apabila reversal.php diakses menggunakan browser akan didapatkan respon sbb: 
 {"rc":"ERR-REVERSAL-DENIED","msg":"Reversal ditolak. Pembayaran sudah update ke DB di Perusahaan"}
 
 KONFIGURASI SANDBOX:
