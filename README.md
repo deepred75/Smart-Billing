@@ -42,3 +42,7 @@ Apabila inquiry.php diakses menggunakan browser, akan didapatkan respon sbb:
 
 Apabila reversal.php diakses menggunakan browser, akan didapatkan respon sbb: 
 {"rc":"ERR-REVERSAL-DENIED","msg":"Reversal ditolak. Pembayaran sudah update ke DB di Perusahaan"}
+
+KONFIGURASI SANDBOX:
+1. Dapatkan akses username & password Institusi Anda untuk masuk ke SANDBOX BPI (https://sandbox.bpi.co.id/)
+2. 
