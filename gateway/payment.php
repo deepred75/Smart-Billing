@@ -4,16 +4,16 @@
 	
 	// PARAMATER DI BAWAH INI ADALAH VARIABEL YANG DITERIMA DARI BSI 
 
-	$kodeBank 				= $_JSON['kodeBank'];
+	$kodeBank 			= $_JSON['kodeBank'];
 	$kodeChannel 			= $_JSON['kodeChannel'];
 	$kodeBiller 			= $_JSON['kodeBiller'];
 	$kodeTerminal 			= $_JSON['kodeTerminal'];
 	$nomorPembayaran 		= $_JSON['nomorPembayaran'];
-	$idTagihan 				= $_JSON['idTagihan'];
+	$idTagihan 			= $_JSON['idTagihan'];
 	$tanggalTransaksi 		= $_JSON['tanggalTransaksi'];
 	$idTransaksi 			= $_JSON['idTransaksi'];
 	$totalNominal 			= $_JSON['totalNominal'];
-	$nomorJurnalPembukuan	= $_JSON['nomorJurnalPembukuan'];
+	$nomorJurnalPembukuan		= $_JSON['nomorJurnalPembukuan'];
 	
 	// PERIKSA APAKAH SELURUH PARAMETER SUDAH LENGKAP
 
@@ -128,15 +128,15 @@
 		];
 		
 	$data_inquiry = [
-		'rc'				=> 'OK',
-		'msg' 				=> 'Inquiry Succeeded',
+		'rc'			=> 'OK',
+		'msg' 			=> 'Inquiry Succeeded',
 		'nomorPembayaran' 	=> $nomorPembayaran,
 		'idPelanggan' 		=> $nomorPembayaran,
-		'nama' 				=> $nama,
+		'nama' 			=> $nama,
 		'totalNominal' 		=> $nominalTagihan,
 		'informasi' 		=> $arr_informasi,
-		'rincian' 			=> $arr_rincian,
-		'idTagihan'			=> $id_tagihan,
+		'rincian' 		=> $arr_rincian,
+		'idTagihan'		=> $id_tagihan,
 	];
 	
 	if($nominalTagihan != $totalNominal ) (
