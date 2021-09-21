@@ -3,14 +3,14 @@
  	debugLog($_JSON);
  	
  	// PARAMATER DI BAWAH INI ADALAH VARIABEL YANG DITERIMA DARI BSI
- 	$kodeBank				= $_JSON['kodeBank'];
+ 	$kodeBank			= $_JSON['kodeBank'];
 	$kodeChannel			= $_JSON['kodeChannel'];
-	$kodeBiller				= $_JSON['kodeBiller'];
+	$kodeBiller			= $_JSON['kodeBiller'];
 	$kodeTerminal			= $_JSON['kodeTerminal'];
 	$nomorPembayaran		= $_JSON['nomorPembayaran'];
 	$tanggalTransaksi		= $_JSON['tanggalTransaksi'];
 	$idTransaksi			= $_JSON['idTransaksi'];
-	$totalNominalInquiry	= $_JSON['totalNominalInquiry'];
+	$totalNominalInquiry		= $_JSON['totalNominalInquiry'];
 	
 	// PERIKSA APAKAH SELURUH PARAMETER SUDAH LENGKAP
 	if (empty($kodeBank) || empty($kodeChannel) || empty($kodeTerminal) || 
@@ -125,15 +125,15 @@
 	];
 	
 	$data_inquiry = [
-		'rc'				=> 'OK',
-		'msg' 				=> 'Inquiry Succeeded',
+		'rc'			=> 'OK',
+		'msg' 			=> 'Inquiry Succeeded',
 		'nomorPembayaran' 	=> $nomorPembayaran,
 		'idPelanggan' 		=> $nomorPembayaran,
-		'nama' 				=> $nama,
+		'nama' 			=> $nama,
 		'totalNominal' 		=> $nominalTagihan,
 		'informasi' 		=> $arr_informasi,
-		'rincian' 			=> $arr_rincian,
-		'idTagihan'			=> $id_tagihan,
+		'rincian' 		=> $arr_rincian,
+		'idTagihan'		=> $id_tagihan,
 	];
 	
 	$response_inquiry = json_encode($data_inquiry); 
