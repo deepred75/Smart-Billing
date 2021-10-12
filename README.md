@@ -54,7 +54,7 @@ contoh: https://serversaya.com/gateway/inquiry.php<br>
 contoh: https://serversaya.com/gateway/payment.php<br>
 ○ Masukkan URL Host to Host Reversal<br>
 contoh: https://serversaya.com/gateway/reversal.php<br>
-○ Checklist Host to Host (S&K Berlaku)
+○ Checklist Host to Host (S&K Berlaku)<br>
 ○ Klik Submit
 
 UJICOBA TRANSAKSI:
