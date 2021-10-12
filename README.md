@@ -48,12 +48,12 @@ KONFIGURASI SANDBOX:
 2. Jika belum mempunyai akun silahkan mendaftar disini (https://sandbox.bpi.co.id/smartbilling/user-register)
 3. Masuk ke menu Konfigurasi -> Konfigurasi Umum 
 4. Masukkan Token Host to Host Contoh: SECRET-KEY
-○ Masukkan URL Host to Host Inquiry
-contoh: https://serversaya.com/gateway/inquiry.php
-○ Masukkan URL Host to Host Payment
-contoh: https://serversaya.com/gateway/payment.php
-○ Masukkan URL Host to Host Reversal
-contoh: https://serversaya.com/gateway/reversal.php
+○ Masukkan URL Host to Host Inquiry<br>
+contoh: https://serversaya.com/gateway/inquiry.php<br>
+○ Masukkan URL Host to Host Payment<br>
+contoh: https://serversaya.com/gateway/payment.php<br>
+○ Masukkan URL Host to Host Reversal<br>
+contoh: https://serversaya.com/gateway/reversal.php<br>
 ○ Checklist Host to Host (S&K Berlaku)
 ○ Klik Submit
 
