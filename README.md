@@ -32,7 +32,7 @@ reversal.php dapat diakses pada URL Host to Host Reversal:<br>
 https://serversaya.com/gateway/reversal.php
 
 Apabila index.php diakses menggunakan browser akan didapatkan respon sbb: 
-![Alt text](https://user-images.githubusercontent.com/26053613/134061383-d64672bc-485d-4af9-98a9-52471c8d2135.png?raw=true "Menampilkan Data")
+![Alt text](https://user-images.githubusercontent.com/26053613/162281958-811b5ba6-17f3-4318-b61d-ec290760639e.png?raw=true "Menampilkan Data")
 
 Apabila payment.php diakses menggunakan browser akan didapatkan respon sbb: 
 {blank page / halaman kosong}
